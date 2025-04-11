@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "vitest run 70-climbing-stairs"
+    "start": "vitest run 83-remove-duplicates-from-sorted-list"
   },
   "author": "Dirga Yasa",
   "license": "ISC",
