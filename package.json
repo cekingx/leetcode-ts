@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "vitest run 83-remove-duplicates-from-sorted-list"
+    "start": "vitest run 88-merge-sorted-array"
   },
   "author": "Dirga Yasa",
   "license": "ISC",
